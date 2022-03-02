@@ -29,5 +29,5 @@ jobs:
       - name: Run a one-line script
         run: ls -lah
 
-      # - name: step3
-      # - run: git
+      - name: step3
+      - run: git --version
