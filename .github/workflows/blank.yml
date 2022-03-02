@@ -31,5 +31,5 @@ jobs:
       - name: Step2
         run: ls -lah
 
-      # - name: step3
-      # - run: git --version
+      - name: step3
+        run: git --version
